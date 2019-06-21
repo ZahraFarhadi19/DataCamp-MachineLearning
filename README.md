@@ -1,1 +1,1 @@
-# DataCamp-MachineLearning
+# DataCamp-Machine Learning
